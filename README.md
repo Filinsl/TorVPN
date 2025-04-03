@@ -17,9 +17,7 @@ TorVPN runs a SOCKS5 proxy server using TorSocks. All internet traffic, includin
 
 ## Installation
 
-### Requirements:
 - **Operating System:** Linux (tested on GNOME).
-- **Required packages:** Tor must be installed and running on your device.
 
 ### Installation Instructions:
 
